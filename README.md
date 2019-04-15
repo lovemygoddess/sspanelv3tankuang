@@ -1,7 +1,7 @@
 # 基于sspanelv3mod   感谢 各位大佬  @https://github.com/Anankke/ss-panel-v3-mod_Uim
 演示图片
-https://i.loli.net/2019/04/15/5cb41f1d089a1.jpg
-https://i.loli.net/2019/04/15/5cb41f1d0ceaf.jpg
+![Image text](https://i.loli.net/2019/04/15/5cb41f1d089a1.jpg)
+![Image text](https://i.loli.net/2019/04/15/5cb41f1d0ceaf.jpg)
 弹框功能
 尽量使用notepad等软件编辑
 
